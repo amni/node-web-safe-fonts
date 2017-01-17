@@ -1,0 +1,14 @@
+{
+    "name": "web-safe-fonts",
+    "description": "List of Web Safe Fonts from www.cssfontstack.com",
+    "version": "0.1.0",
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/shtrihstr/node-web-safe-fonts.git"
+    },
+    "devDependencies": {
+        "cheerio": "^0.22.0",
+        "node-fetch": "^1.6.3"
+    }
+}
